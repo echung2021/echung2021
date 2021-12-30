@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @echung2021
-- 👀 I’m interested in relation databases, information security, and systems design/analysis. 
+- 👀 I’m interested in relational databases, information security, and systems design/analysis. 
 - 🌱 I’m currently learning Java
 
 <!---
